@@ -1,0 +1,22 @@
+[
+  {
+    "prompt": "Explain what a Python variable is",
+    "expected_category": "fast"
+  },
+  {
+    "prompt": "Implement a Python function that checks whether a number is prime",
+    "expected_category": "coding"
+  },
+  {
+    "prompt": "Derive the convergence conditions and analyze gradient descent",
+    "expected_category": "reasoning"
+  },
+  {
+    "prompt": "Write unit tests for a sorting algorithm",
+    "expected_category": "coding"
+  },
+  {
+    "prompt": "Compare two optimization methods and evaluate their trade-offs",
+    "expected_category": "reasoning"
+  }
+]
